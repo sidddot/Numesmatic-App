@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "822897312104",
+    "firebase_url": "https://numes-887a6-default-rtdb.firebaseio.com",
+    "project_id": "numes-887a6",
+    "storage_bucket": "numes-887a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822897312104:android:a560c713a2f63fd77bd6dd",
+        "android_client_info": {
+          "package_name": "com.s1d.numes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8VPAftjvEEWGgfMjuFkuMdzE2wlNHejQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
