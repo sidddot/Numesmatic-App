@@ -11,17 +11,29 @@ Registration: Enables new users to create an account and access the app's featur
 ## Homepage
 Provides an overview and access to the main functionalities of the app, including navigation to other pages.
 
+![WhatsApp Image 2024-09-15 at 15 35 56_3a80b68c](https://github.com/user-attachments/assets/e4e066b2-ec3c-4813-a7f7-add9027cfbcf)
+
 ## MyCollection Page
 View Collected Coins: Displays a list of coins collected by the user.
 Details: Shows detailed information about each coin, including name, country, year, material, rarity, and images.
 Search Function: Allows users to filter coins based on name or country.
 
-Currency Converter
-Converts between different currencies, helping users assess the value of their coins in various currencies.
+![WhatsApp Image 2024-09-15 at 15 35 55_e56a7e16](https://github.com/user-attachments/assets/f3f5164f-30a1-4925-ab4d-4ad583b52f8e)
 
-AddCoins Page
+## AddCoins Page
 Add New Coin: Allows users to add new coins to their collection.
 Input Fields: Includes fields for uploading front and back images, entering coin name, country, material, year, and rarity.
+
+![WhatsApp Image 2024-09-15 at 15 35 55_7dfc957e](https://github.com/user-attachments/assets/e879ee51-745f-4c2c-8b18-0ddfc3e4760c)
+
+![WhatsApp Image 2024-09-15 at 15 35 54_57e85e28](https://github.com/user-attachments/assets/ab7bb9e3-aa4c-42e3-b40d-74ae25879516)
+
+
+## Currency Converter
+Converts between different currencies, helping users assess the value of their coins in various currencies.
+
+![WhatsApp Image 2024-09-15 at 15 35 53_0f83576d](https://github.com/user-attachments/assets/a7a15558-5db5-41eb-ac87-498e3ae6bd19)
+
 
 ## Technology Stack
 React Native: Framework for building native mobile applications using React.
