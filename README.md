@@ -1,16 +1,17 @@
-###Numesmatic App
-#Overview
+# Numesmatic App
+
+## Overview
 The Numesmatic App is a mobile application designed to simplify the process of storing and managing coin collections for numismatists. Built using React Native, JavaScript, CSS, and Firebase, this app offers a user-friendly interface for managing coins, converting currencies, and storing coin-related data efficiently. The application replaces traditional pen-and-paper methods with a digital solution, providing enhanced functionality and ease of use.
 
-#Features
+## Features
 Authentication Page
 Login: Allows users to log into their accounts securely.
 Registration: Enables new users to create an account and access the app's features.
 
-Homepage
+## Homepage
 Provides an overview and access to the main functionalities of the app, including navigation to other pages.
 
-MyCollection Page
+## MyCollection Page
 View Collected Coins: Displays a list of coins collected by the user.
 Details: Shows detailed information about each coin, including name, country, year, material, rarity, and images.
 Search Function: Allows users to filter coins based on name or country.
@@ -22,13 +23,13 @@ AddCoins Page
 Add New Coin: Allows users to add new coins to their collection.
 Input Fields: Includes fields for uploading front and back images, entering coin name, country, material, year, and rarity.
 
-#Technology Stack
+## Technology Stack
 React Native: Framework for building native mobile applications using React.
 JavaScript: Programming language used for the app's logic and functionality.
 CSS: Styling language for designing the user interface.
 Firebase: Backend service for authentication and real-time database management.
 
-#Firebase Integration
+## Firebase Integration
 Authentication: Handles user login and registration through Firebase Authentication.
 Realtime Database: Stores and retrieves coin data, including user-specific collections.
 Firebase Database Structure
@@ -46,7 +47,7 @@ name: Name of the coin.
 timestamp: Date and time when the coin was added.
 year: Year of minting.
 
-#Getting Started
+## Getting Started
 Prerequisites
 Node.js and npm installed on your development machine.
 Expo CLI installed (npm install -g expo-cli).
@@ -79,5 +80,5 @@ MyCollection: View and search your collected coins. Filter coins by name or coun
 AddCoins: Add new coins to your collection with detailed information.
 Currency Converter: Convert coin values to different currencies.
 
-#Contributing
+## Contributing
 Feel free to submit issues or pull requests. Contributions are welcome to improve the functionality and performance of the app.
